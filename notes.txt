@@ -1,0 +1,2 @@
+We can use """ """ to write a formatted string in python.
+We can use [:] or another way to slice stings or list in python.
